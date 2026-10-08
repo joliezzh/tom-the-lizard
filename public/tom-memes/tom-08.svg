@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Judging Tom placeholder">
+  <rect width="800" height="1000" fill="#141414"/>
+  <ellipse cx="400" cy="430" rx="210" ry="250" fill="none" stroke="#e8e8e8" stroke-width="10"/>
+  <circle cx="330" cy="390" r="18" fill="#e8e8e8"/>
+  <circle cx="470" cy="390" r="18" fill="#e8e8e8"/>
+  <path d="M300 520 Q400 560 500 520" fill="none" stroke="#e8e8e8" stroke-width="8" stroke-linecap="round"/>
+  <text x="400" y="820" text-anchor="middle" fill="#e8e8e8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="42" letter-spacing="6">JUDGING</text>
+  <text x="400" y="870" text-anchor="middle" fill="#e8e8e8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" opacity="0.7">placeholder · swap for real Tom</text>
+</svg>
